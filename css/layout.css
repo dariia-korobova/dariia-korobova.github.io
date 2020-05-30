@@ -1,0 +1,145 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #f0f0f0;
+      font-size: 16px;
+    /*#f0f0f0;
+    font-size: 16px;
+    /* Цвет фона */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: sans-serif;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+.step {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.step img {
+    text-align: center;
+    border-top: 10px double #808B96;
+    padding: 30px;
+    border-bottom: 10px double #808B96;
+
+}
+
+.windows {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    padding: 20px;
+
+}
+
+.windows img {
+    text-align: center;
+    border-top: 10px double #808B96;
+    padding: 30px;
+    border-bottom: 10px double #808B96;
+}
+
+.speed {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    padding: 20px;
+
+
+}
+
+.speed img {
+    text-align: center;
+    border-top: 10px double #808B96;
+    padding: 30px;
+    border-bottom: 10px double #808B96;
+}
+
+.depth {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    padding: 20px;
+}
+
+.depth img {
+    text-align: center;
+    border-top: 10px double #808B96;
+    padding: 30px;
+    border-bottom: 10px double #808B96;
+}
+
+.puzle {
+    font-size: 1.3rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    padding: 20px;
+}
+
+.puzle img {
+    text-align: center;
+    border-top: 10px double #808B96;
+    padding: 30px;
+    border-bottom: 10px double #808B96;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+div {
+    font-family: 'Cormorant Garamond', serif;
+
+}
+
+footer {
+    padding: 30px;
+}
+
+footer h2 {
+    margin-bottom: 1em;
+}
+
+.author {
+    margin:auto;
+    text-align: center;
+}
+
+footer p {
+  font-size: 1.3rem;
+    margin:auto;
+    margin-top: 2em;
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;s
+}

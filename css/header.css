@@ -1,0 +1,48 @@
+header {
+    background-image: url("../img/header_bg.jpeg");
+font-family: 'Nunito', sans-serif;
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width:100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: #fff;
+}
+
+p {
+    max-width: 700px;
+    margin-bottom: .5em;
+
+}
+
+header h1 {
+    font-size: 2.5rem;
+    letter-spacing: 0.025em;
+    line-height: 1.1;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: .5em;
+    font-family: 'Nunito', sans-serif;
+    color: #C0C0C0;
+}
+
+header p {
+    font-size: 1.2rem;
+    text-align: center;
+    letter-spacing: 0.005em;
+    line-height: 1.4;
+    color: #C0C0C0;
+
+}
+@media screen and (orientation:portrait){
+nav a{
+  font-size: 3vh;
+  }
+
+}
